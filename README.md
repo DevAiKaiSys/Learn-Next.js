@@ -20,3 +20,9 @@ npm i @vercel/postgres
 ```
 npm run seed
 ```
+
+run the code after a specific time once the user has stopped
+
+```
+npm i use-debounce
+```
