@@ -34,3 +34,18 @@ By default, Next.js includes the [eslint-plugin-jsx-a11y](https://github.com/jsx
 ```
 npm run lint
 ```
+
+# Authentication
+
+[NextAuth.js](https://authjs.dev/reference/nextjs)
+
+```
+npm install next-auth@beta
+```
+
+generate a secret key
+
+```
+openssl rand -base64 32
+```
+or [go to](https://generate-secret.vercel.app/32)
