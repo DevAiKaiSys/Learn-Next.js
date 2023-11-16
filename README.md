@@ -26,3 +26,11 @@ run the code after a specific time once the user has stopped
 ```
 npm i use-debounce
 ```
+
+# Using the ESLint accessibility plugin in Next.js
+
+By default, Next.js includes the [eslint-plugin-jsx-a11y](https://github.com/jsx-eslint/eslint-plugin-jsx-a11y)
+
+```
+npm run lint
+```
